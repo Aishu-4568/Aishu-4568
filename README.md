@@ -8,9 +8,13 @@ I'm Aishwarya, a passionate and curious student eager to explore the realms of w
 ### What You'll Find Here 📂
 ### Projects repository 🛠️
 1.FMML labs and modules
+
 2.projectnest1
+
 3.projectnest2
+
 4.portfolio
+
 
 ### Learning Journey 📚
 I believe in the power of continuous learning. Here, I'll share my experiences, resources, and insights gained along the way. From tutorials and articles to book recommendations, this section is all about feeding my curiosity and expanding my knowledge.
