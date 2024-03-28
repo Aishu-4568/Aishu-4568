@@ -19,9 +19,7 @@ Have a question, suggestion, or just want to say hi? Feel free to reach out to m
 
 Let's Connect! 🌐
 
-LinkedIn
-
-Twitter
+[LinkedIn](https://www.linkedin.com/in/bommireddy-aishwarya-04794b288/)
 
 Portfolio Website
 
