@@ -25,11 +25,11 @@ Life's not just about work! In this section, you'll find some of my hobbies, int
 ### Get in Touch 📫
 Have a question, suggestion, or just want to say hi? Feel free to reach out to me via [email/social media/other contact info]. I'm always excited to connect with fellow learners, creators, and enthusiasts!
 
-Let's Connect! 🌐
+### Let's Connect! 🌐
 
 [LinkedIn](https://www.linkedin.com/in/bommireddy-aishwarya-04794b288/)
 
 [Hackerrank](https://www.hackerrank.com/profile/aishureddy4568)
 
-Portfolio Website
+[Portfolio Website]()
 
