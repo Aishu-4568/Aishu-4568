@@ -18,7 +18,10 @@ Life's not just about work! In this section, you'll find some of my hobbies, int
 Have a question, suggestion, or just want to say hi? Feel free to reach out to me via [email/social media/other contact info]. I'm always excited to connect with fellow learners, creators, and enthusiasts!
 
 Let's Connect! 🌐
+
 LinkedIn
+
 Twitter
+
 Portfolio Website
 
